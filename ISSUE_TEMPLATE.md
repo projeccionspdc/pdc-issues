@@ -1,4 +1,5 @@
 
+Esborreu el text que no feu servir d'aquesta plantilla. Teniu les pestanyes a sobre que posen **Text** i **Preview** per que veieu com queda el format.
 ## Descripció del problema
 * Pas 1
 * ...
